@@ -4,7 +4,10 @@ layout: contact
 description: Contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+Please reach out using the calendly link below for a free consultation.  Recurring calls can be set up if you feel that our services are a good fit for your student:
+
+[Book a Calendly Apointment Here](https://calendly.com/jadenbryan/initial-consultation)
+
 
 | Day       | Opening Hours   |
 | --------- | --------------- |

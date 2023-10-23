@@ -1,0 +1,16 @@
+current directory: /home/jaden/Documents/accelu/jekyll-serif-theme/.bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/bin/ruby -I /usr/lib/ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /home/jaden/Documents/accelu/jekyll-serif-theme/.bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20231022-24682-za27fp sitelibdir\=./.gem.20231022-24682-za27fp clean
+
+current directory: /home/jaden/Documents/accelu/jekyll-serif-theme/.bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20231022-24682-za27fp sitelibdir\=./.gem.20231022-24682-za27fp
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/jaden/Documents/accelu/jekyll-serif-theme/.bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20231022-24682-za27fp sitelibdir\=./.gem.20231022-24682-za27fp install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20231022-24682-za27fp
