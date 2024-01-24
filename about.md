@@ -26,12 +26,12 @@ My personal internship experiences include:
 
 Throughout my time offering services, I have had the opportunity to see a variety of exceptional student achievements. AccelU's placement portfolio encompasses:
 
-- **J.P. Morgan**: Facilitating the integration of finance experts into this globally renowned financial institution.
-- **Deloitte**: Strategically aligning top-tier consultants with this leading global consultancy firm.
-- **Bain**: Orchestrating placements within  distinguished global management firms.
-- **Microsoft**: Applicants resonate with the organization's dynamic culture.
-- **Goldman Sachs**: Ensuring seamless integration of high-caliber talent into top financial institutions.
-- **Amazon**: Guiding professionals to find their niche within this global e-commerce and tech giant.
+- **J.P. Morgan**: Investment Banking, Equity Research
+- **Deloitte**: Consulting, Global Operations 
+- **Bain**: Consulting
+- **Microsoft**: SWE, PM, TPM 
+- **Goldman Sachs**: Investment Banking
+- **Amazon**: Program Management, SWE, Operations, Area Management
 
 ## Core Philosophy
 
